@@ -1,2 +1,2 @@
 # Snake Game
-the game of snake, but in Java and JFrame
+the game of snake, made from scratch using Java and JFrame
